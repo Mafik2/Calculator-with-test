@@ -1,0 +1,2 @@
+cz/educanet/CalculatorTest.java
+ cz.educanet.CalculatorTest
